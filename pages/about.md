@@ -10,7 +10,6 @@ credits: true
 {% include feature/image.html objectid="samanthaobman03" width="75" %}
 
 ## About the Collection
-
 This is a collection of photographs to showcase my work from 2015 onwards. You can find more at [samanthaobman.com](https://samanthaobman.com/).
 
 ## About Me
