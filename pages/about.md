@@ -9,10 +9,6 @@ credits: true
 ---
 {% include feature/image.html objectid="samanthaobman03" width="75" %}
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
-
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 
 This is a collection of photographs to showcase my work from 2015 onwards. You can find more at [samanthaobman.com](https://samanthaobman.com/).
